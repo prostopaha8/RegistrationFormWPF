@@ -12,7 +12,7 @@
         <TextBlock x:Name="TextBlockNickname" HorizontalAlignment="Left" Margin="10,104,0,0" TextWrapping="Wrap" Text="Nickname" VerticalAlignment="Top"/>
         <TextBox x:Name="TextBoxNickname" HorizontalAlignment="Left" Height="23" Margin="68,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289"/>
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="-94,209,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="BtnOk" Content="Ok" HorizontalAlignment="Left" Margin="109,152,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="BtnOk" Content="Ok" HorizontalAlignment="Left" Margin="109,152,0,0" VerticalAlignment="Top" Width="75" Click="BtnOk_Click"/>
         <Button x:Name="BtnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="189,152,0,0" VerticalAlignment="Top" Width="75"/>
     </Grid>
 </Window>

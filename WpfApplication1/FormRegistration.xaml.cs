@@ -24,5 +24,10 @@ namespace WpfApplication1
         {
             InitializeComponent();
         }
+
+        private void BtnOk_Click(object sender, RoutedEventArgs e)
+        {
+            BussinesLayer.SetData(new DataModel(5,"www","rrr","ttt"));
+        }
     }
 }

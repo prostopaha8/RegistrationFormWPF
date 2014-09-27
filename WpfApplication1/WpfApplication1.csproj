@@ -61,6 +61,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BussinesLayer.cs" />
+    <Compile Include="DataModel.cs" />
     <Compile Include="FormRegistration.xaml.cs">
       <DependentUpon>FormRegistration.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -95,9 +97,7 @@
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Forms\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

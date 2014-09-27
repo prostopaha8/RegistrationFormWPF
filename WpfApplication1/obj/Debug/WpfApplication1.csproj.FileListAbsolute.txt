@@ -8,6 +8,6 @@ c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfAppl
 c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
 c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
 c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
-c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
 c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\FormRegistration.baml
 c:\users\prost_000\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\FormRegistration.g.cs
+C:\Users\prost_000\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
